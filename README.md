@@ -1,0 +1,2 @@
+# EasyBotCommands
+COMMANDS
